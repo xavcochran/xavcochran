@@ -15,10 +15,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xavcochran&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent"  />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavcochran&layout=compact&langs_count=8&card_width=190&hide_progress=true&theme=transparent" />
-</a>
+<p align="center">
+
+
+
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=xavcochran&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight"  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavcochran&layout=compact&langs_count=8&card_width=190&hide_progress=true&theme=tokyonight" />
+
+
+</p>
 
