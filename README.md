@@ -19,8 +19,8 @@
 
 
 
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=xavcochran&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight"  />
-  <img height=200  align="center" src="https://github-readme-stats-beta-steel-43.vercel.app/api/wakatime?username=xavcochran&langs_count=16&layout=compact&custom_title=Past%20Year%20Stats&theme=tokyonight">
+  <img height=300 align="center" src="https://github-readme-stats-beta-steel-43.vercel.app/api/wakatime?username=xavcochran&langs_count=16&layout=compact&custom_title=Past%20Year%20Stats&theme=tokyonight">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=xavcochran&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight"  />
 
 </p>
 
